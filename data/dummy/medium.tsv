@@ -1,0 +1,61 @@
+member_id	name	grade	pref	skill	2027-10-08	2027-10-09	2027-10-10
+M001	中島 彩花	B3	tea support cashier	tea=3 latte=3		setup s1 s2 s3 s4 s5 cleanup	s2 s3 s4
+M002	山下 さくら	B4	latte cashier support	tea=2 coffee=3 latte=3		setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M003	石井 花	M1	tea water coffee	tea=2 coffee=3 latte=3		s4	s5
+M004	松本 葵	B3	latte coffee support	tea=1 coffee=1 latte=1	loading	setup s2 s3 s4 cleanup	setup s2 s3 s4 cleanup
+M005	山田 凛	B2	tea latte support	tea=2 coffee=2		s5 cleanup	s5 cleanup
+M006	清水 蓮	B4	tea cashier	tea=1 coffee=2 latte=1		setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M007	池田 あかり	B1	latte cashier support	tea=1 latte=1		setup s1 s2 s3 s4 s5 cleanup	
+M008	山崎 芽依	D	latte support cashier	tea=2 coffee=3 latte=3		s5	setup s1 s2 s3 s4 s5 cleanup
+M009	加藤 真央	B1	coffee cashier support	latte=1		s5 cleanup	s4
+M010	山田 葵	B4	tea support water	tea=1 coffee=3 latte=1	loading	setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M011	清水 大和	B3	support cashier water	coffee=2 latte=1		s3 s4 s5 cleanup	s3 s4 s5 cleanup
+M012	斎藤 悠真	M2	tea latte support	tea=1 coffee=1 latte=1		s5	s5
+M013	清水 真央	B3	tea latte cashier	tea=1 latte=2	loading	s2 s3	s2 s3
+M014	井上 光	M1	coffee support water	coffee=3 latte=1		s2 s3 s4	s2 s3 s4
+M015	吉田 奏	B4	tea cashier support	tea=3 coffee=3 latte=3	loading	setup s1 s2 s3	s3 s4 s5 cleanup
+M016	橋本 彩花	M2	coffee tea support	tea=2 coffee=2 latte=3	loading	s3 s4 s5 cleanup	s3 s4 s5 cleanup
+M017	中村 直樹	B2	tea support coffee	tea=2 coffee=2 latte=1		s1 s2 s3	
+M018	石井 翔	B1	tea coffee latte	latte=1	loading	s1 s2	
+M019	渡辺 陽菜	B3	water coffee support	tea=2 coffee=1 latte=1		setup s1 s2 s3 s4	setup s1 s2 s3 s4
+M020	松本 直樹	B3	tea water support	tea=1 coffee=1 latte=2	loading	setup s1 cleanup	
+M021	小川 葵	B3	tea support latte	tea=1 coffee=3		setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M022	中村 真央	B4	tea coffee support	coffee=1 latte=2	loading	s3 s4 s5	s4
+M023	石井 千尋	B4	latte	tea=2 coffee=2 latte=2		setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5
+M024	中島 湊	M2	tea coffee water	tea=2 coffee=2 latte=3		s3 cleanup	s3 cleanup
+M025	森 凛	M2	cashier coffee water	tea=2 coffee=2 latte=1	loading	setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M026	松本 拓海	M2	latte support cashier	tea=2 coffee=1 latte=2	loading	setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M027	石井 蒼	B4	latte tea support	tea=1 coffee=2 latte=2		s2 s3	s2 s3
+M028	森 陽斗	M1	coffee tea cashier	tea=2 coffee=2 latte=3		s1 s2 cleanup	
+M029	清水 健太	M1	tea coffee support	tea=2 coffee=3 latte=3		s2 s3 s4	setup s3 s4
+M030	田中 大和	B1	latte cashier support	latte=2		s3 s4 s5 cleanup	s1 s2 s3 cleanup
+M031	高橋 健太	B2	tea cashier support	coffee=2 latte=1		setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M032	鈴木 真央	B3	coffee water tea	tea=2 coffee=1 latte=1		s4	
+M033	橋本 優奈	B1	tea coffee support	tea=3 latte=1	loading	s5 cleanup	
+M034	田中 遥	B4	latte cashier water	coffee=1		setup s2 s3 s4 s5 cleanup	
+M035	加藤 陽斗	B4	coffee support	tea=3 coffee=2		s3 s4	s3 s4
+M036	高橋 花	B4	tea coffee water	tea=1 coffee=2 latte=2	loading	s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M037	鈴木 美咲	B3	tea coffee cashier	tea=3 coffee=3 latte=2		s5	s2 s3
+M038	中村 結衣	B3	cashier coffee support	tea=1 coffee=1 latte=1	loading	setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M039	山下 颯太	B3	latte support tea	tea=1 coffee=2 latte=2		setup s2 s3 s4	s3 s4
+M040	中島 美咲	B2	tea cashier support	tea=3 coffee=1		setup s2 s4	s3
+M041	池田 樹	B3	cashier tea support	tea=1 coffee=1		s1 s2 s3 s4 s5	setup s1 s2 s3 s4 s5 cleanup
+M042	小林 優奈	M2	support coffee latte	tea=1 coffee=1 latte=3	loading	setup s1	setup s1
+M043	田中 陽菜	D	support tea water	tea=2 coffee=2 latte=2	loading	s4	s4
+M044	高橋 大和	M2	coffee tea support	tea=3 coffee=3 latte=2	loading		
+M045	鈴木 湊	B3	tea cashier support	tea=2 coffee=1 latte=2		setup s5	s1 s2 cleanup
+M046	加藤 千尋	B3	coffee tea cashier	tea=1 coffee=1		setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M047	松本 結衣	B4	cashier coffee support	tea=2 latte=2	loading	setup s1 s2 s4	setup s1 s2 s3
+M048	中島 大和	B4	tea cashier latte	tea=3 coffee=1 latte=3	loading	setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M049	阿部 遥	B4	cashier coffee support	tea=2 coffee=2 latte=1		setup s1 s2	
+M050	斎藤 湊	B4	tea support latte	tea=2 latte=1		s3 s4 s5	s3 s4 s5
+M051	木村 蓮	M1	tea support latte	coffee=1 latte=2	loading	s2 s3 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M052	鈴木 翔	B4	latte coffee tea	tea=3 coffee=2 latte=2		setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M053	林 結衣	B2	tea cashier latte			s4	s5 cleanup
+M054	山口 悠真	B2	tea support water	tea=1		setup s1 s2 s3 s4 s5 cleanup	s3 s4 s5
+M055	松本 奏	B3	tea latte support	tea=1 coffee=1 latte=2	loading	setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3
+M056	中島 悠真	B3	tea coffee	tea=3 latte=1		setup s1 s2 s3 s4	setup s1
+M057	小林 結衣	B3	coffee tea cashier	tea=1 coffee=2 latte=3	loading	s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup
+M058	山崎 葵	B4	tea support water	coffee=1 latte=2		s5 cleanup	
+M059	山田 芽依	B4	coffee water cashier	tea=3 coffee=1 latte=2		s2 s3 s4	setup s1 s2 s3 s4 s5 cleanup
+M060	山田 健太	B4	tea support cashier	tea=1 coffee=1 latte=1	loading	setup s1 s2 s3 s4 s5 cleanup	setup s1 s2 s3 s4 s5 cleanup

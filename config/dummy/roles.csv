@@ -1,0 +1,7 @@
+role,label,skill,need
+tea,紅茶,1,2
+coffee,コーヒー,1,2
+latte,ラテ,1,3
+cashier,会計,0,2
+support,縁の下,0,3
+water,水汲み,0,1

@@ -1,0 +1,10 @@
+# 実データ（個人情報を含む）はコミットしない
+data/*.csv
+data/processed/
+config/[0-9]*
+
+__pycache__/
+.venv/
+
+# solver input/output (may contain names)
+out/
